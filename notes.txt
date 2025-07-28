@@ -1,0 +1,5 @@
+ python -m http.server --cgi 8888 -d /c/Users/Ric/Documents/GitHub/meet-process-notify 2> /dev/null &
+ 
+ 
+cmd python -m http.server --cgi 8888 -d C\Users\Ric/Documents\GitHub\meet-process-notify
+ 
