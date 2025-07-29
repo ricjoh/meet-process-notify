@@ -13,5 +13,4 @@ if __name__ == "__main__":
 	for app_title in open_apps:
 		if ( app_title.find('Google') != -1 and app_title.find('Meet') != -1 ):
 			print("Meet is Running")
-
-	print("\n")
+			break
